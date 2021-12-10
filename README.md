@@ -1,4 +1,4 @@
-## 👋 Hi Dev's! Welcome to my Github profile.
+## 👋 Hi Dev's!
 ### My name is Ailton Santos and my nickname is "Obassy"!
 
 <!--
